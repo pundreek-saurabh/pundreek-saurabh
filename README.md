@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 # Hi there, I'm [Pundreek Saurabh Srivastava](https://github.com/pundreek-saurabh) 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&lines=Full+Stack+Software+Engineer;Backend+%26+Database+Optimization+Specialist;Reduced+API+Latency+by+50-100x;Passionate+about+Scalable+Cloud+Systems)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&lines=Full+Stack+Software+Engineer;Backend+%26+Database+Optimization+Specialist;Learning+Agentic+AI;Passionate+about+Scalable+Software+Systems)](https://git.io/typing-svg)
 
 <p align="center">
   <b>Software Engineer @ Cognizant</b> • <b>M.Tech in SE @ BITS Pilani ('28)</b> • <b>AWS & Claude Certified</b>
